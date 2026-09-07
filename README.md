@@ -1,52 +1,44 @@
 <p align="center">
-  <img src="matrix-banner.svg" width="100%" alt="matrix banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:145214&height=200&section=header&text=Sai%20Sundar%20S&fontSize=50&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Upcoming%20Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=20&descColor=39FF14" alt="header banner"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saaaiii&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge&labelColor=000000" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Saaaiii?label=FOLLOWERS&style=for-the-badge&color=39FF14&labelColor=000000" alt="followers" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=000000" alt="status" />
+  <img src="https://komarev.com/ghpvc/?username=Saaaiii&label=Profile%20Views&color=39FF14&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Saaaiii?label=Followers&style=flat&color=39FF14" alt="followers" />
 </p>
 
-<br/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-```bash
-$ whoami
-> Sai Sundar S — Upcoming Full Stack & AI Developer
+### 🚀 About Me
 
-$ current_focus --list
-> [1] EV charging simulation
-> [2] AI-powered chatbots
-> [3] OCPP (Open Charge Point Protocol)
+- 🔭 Currently building **EV charging simulation** and **AI-powered chatbots**
+- 🌱 Learning the **OCPP (Open Charge Point Protocol)** ecosystem in depth
+- 💬 Ask me about **Python, EV tech, or chatbot development**
+- 📫 Reach me at: **your-email@example.com**
+- ⚡ Fun fact: I like building things that make machines talk to each other (chatbots *and* chargers 😄)
 
-$ contact --show
-> your-email@example.com
+> Replace the bullets, email, and fun fact above with your real info.
 
-$ echo $MOTTO
-> "Machines that talk to each other — chatbots and chargers alike."
-```
+</td>
+<td width="40%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="coding illustration"/>
+</td>
+</tr>
+</table>
 
-> Replace the email and focus list above with your real info.
+---
 
-<br/>
-
-<h3 align="center">// TECH_STACK</h3>
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=39FF14" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=39FF14" alt="C++"/>
-  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=39FF14" alt="Git"/>
-  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=39FF14" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VS%20CODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux,cpp&theme=dark" alt="tech stack icons" />
 </p>
 
-<br/>
+---
 
-<h3 align="center">// FEATURED_PROJECTS</h3>
-
-<p align="center">
+### 📌 Featured Projects
 
 | Project | Description |
 |---|---|
@@ -54,45 +46,47 @@ $ echo $MOTTO
 | 🔌 [**ocpp**](https://github.com/Saaaiii/ocpp) | Python implementation of the Open Charge Point Protocol |
 | 🤖 [**college-chat-bot**](https://github.com/Saaaiii/college-chat-bot) | A chatbot built for college use-cases |
 
-</p>
+> Pin your best 4–6 repos on your actual profile: go to your profile → *Customize your pins*.
 
-> Pin these on your profile: profile page → *Customize your pins* → select all three (or your best 4–6 repos).
+---
 
-<br/>
-
-<h3 align="center">// GITHUB_STATS</h3>
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saaaiii&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14&icon_color=39FF14&ring_color=39FF14" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saaaiii&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6B6B6B" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saaaiii&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saaaiii&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaaiii&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=39FF14" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaaiii&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<br/>
+---
 
-<h3 align="center">// TROPHIES</h3>
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Saaaiii&theme=matrix&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
-<br/>
+---
 
-<h3 align="center">// CONNECT</h3>
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=39FF14" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
-<p align="center"><sub>// end_of_file — thanks for visiting</sub></p>
+---
+
+<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:145214,100:0D1117&height=100&section=footer" alt="footer banner" width="100%"/>
