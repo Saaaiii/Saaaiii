@@ -1,92 +1,56 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:145214&height=200&section=header&text=Sai%20Sundar%20S&fontSize=50&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Upcoming%20Full%20Stack%20%26%20AI%20Developer&descAlignY=58&descSize=20&descColor=39FF14" alt="header banner"/>
-</p>
+<h1 align="center">Sai Sundar S</h1>
+<p align="center">Full-Stack Developer focused on EV charging systems and AI-driven applications</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saaaiii&label=Profile%20Views&color=39FF14&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Saaaiii?label=Followers&style=flat&color=39FF14" alt="followers" />
-</p>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🚀 About Me
-
-- 🔭 Currently building **EV charging simulation** and **AI-powered chatbots**
-- 🌱 Learning the **OCPP (Open Charge Point Protocol)** ecosystem in depth
-- 💬 Ask me about **Python, EV tech, or chatbot development**
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun fact: I like building things that make machines talk to each other (chatbots *and* chargers 😄)
-
-> Replace the bullets, email, and fun fact above with your real info.
-
-</td>
-<td width="40%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="coding illustration"/>
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux,cpp&theme=dark" alt="tech stack icons" />
+  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-View%20my%20work-2F81F7?style=flat-square" alt="portfolio"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20me-2F81F7?style=flat-square" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2F81F7?style=flat-square" alt="linkedin"/></a>
+  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-Download-2F81F7?style=flat-square" alt="resume"/></a>
 </p>
 
 ---
 
-### 📌 Featured Projects
+### About
 
-| Project | Description |
-|---|---|
-| ⚡ [**EV-Simulator**](https://github.com/Saaaiii/EV-Simulator) | Electric vehicle charging simulation project |
-| 🔌 [**ocpp**](https://github.com/Saaaiii/ocpp) | Python implementation of the Open Charge Point Protocol |
-| 🤖 [**college-chat-bot**](https://github.com/Saaaiii/college-chat-bot) | A chatbot built for college use-cases |
+I build software at the intersection of electric vehicle infrastructure and AI — currently working on EV charging simulation and the OCPP protocol that lets chargers and back-office systems communicate, alongside AI-powered chatbots. Actively looking for **internship/full-time opportunities** in full-stack development or EV tech.
 
-> Pin your best 4–6 repos on your actual profile: go to your profile → *Customize your pins*.
+> Replace the tagline, About paragraph, and the four badge links above with your real portfolio URL, email, LinkedIn, and resume link.
 
 ---
 
-### 📊 GitHub Stats
+### Work Recruiters Should See First
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saaaiii&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saaaiii&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+**[EV-Simulator](https://github.com/Saaaiii/EV-Simulator)** — Python
+Simulates EV charging sessions, modeling charge rates and station load over time.
+*Add one line here on what problem this solves or what you learned building it — recruiters read this before the code.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaaiii&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
-</p>
+**[ocpp](https://github.com/Saaaiii/ocpp)** — Python
+Implementation of the Open Charge Point Protocol, the industry standard for charger-to-backend communication.
+*Note your specific contribution if this is a fork you've modified — forks read as "explored," not "built," unless you show what you changed.*
 
----
+**[college-chat-bot](https://github.com/Saaaiii/college-chat-bot)** — HTML, JavaScript
+A chatbot that answers common student queries, reducing repetitive questions to college staff.
+*Add a live demo link here if you have one deployed — nothing beats a recruiter being able to click and try it.*
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saaaiii&theme=matrix&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+> Pin these three (or your best 4–6) via your profile → *Customize your pins*, and add a one-line description directly on each repo's GitHub page — a filled-in "About" field on the repo itself matters more than anything in this README.
 
 ---
 
-### 🌐 Connect with Me
+### Skills
+
+**Languages:** Python · C++ · JavaScript · HTML/CSS
+**Tools:** Git, VS Code, Linux
+**Currently learning:** OCPP / EV charging protocols
+
+---
+
+### GitHub Activity
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saaaiii&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saaaiii&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
 
-<p align="center"><i>⭐️ Thanks for stopping by — feel free to explore my repos and connect!</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:145214,100:0D1117&height=100&section=footer" alt="footer banner" width="100%"/>
+<p align="center"><sub>Open to internships and full-time roles in full-stack development or EV tech — reach out via email or LinkedIn above.</sub></p>
