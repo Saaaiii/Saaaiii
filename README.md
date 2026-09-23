@@ -67,9 +67,7 @@ A chatbot that answers common student queries, reducing repetitive questions to 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saaaiii&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saaaiii&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+
 
 ---
 
