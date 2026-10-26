@@ -36,21 +36,27 @@ I build software at the intersection of electric vehicle infrastructure and AI �
 
 ### Work Recruiters Should See First
 
-**[EV-Simulator](https://github.com/Saaaiii/EV-Simulator)** · Python
-Simulates EV charging sessions, modeling charge rates and station load over time.
-*Add one line here on the problem this solves or what you learned building it.*
+### Work Recruiters Should See First
 
-**[ocpp](https://github.com/Saaaiii/ocpp)** · Python
-Implementation of the Open Charge Point Protocol, the industry standard for charger-to-backend communication.
-*Note your specific contribution if this is a fork you've modified.*
+## 🚀 Work Recruiters Should See First
 
-**[college-chat-bot](https://github.com/Saaaiii/college-chat-bot)** · HTML, JavaScript
-A chatbot that answers common student queries, reducing repetitive questions to college staff.
-*Add a live demo link here if you have one deployed.*
+### ⚡ [CSMS – EV Charging Management System](https://github.com/Saaaiii/CSMS)
+**Tech Stack:** React, TypeScript, NestJS, PostgreSQL  
+A full-stack EV charging management platform featuring charger monitoring, charging sessions, OCPP-based communication, and secure payment integration.
 
-> Pin these on your profile (→ *Customize your pins*) and fill in each repo's own "About" field on GitHub — that matters more than anything in this file.
+### 💰 [Expense Tracker – MERN Stack](https://github.com/Saaaiii/expense-tracker)
+**Tech Stack:** MongoDB, Express.js, React, Node.js  
+A personal finance application for tracking expenses, managing transactions, and visualizing spending through interactive dashboards and charts.
+
+🔗 **Live Demo:** [Open Expense Tracker](https://expense-trackerfrontend-beryl.vercel.app/)
+
+### 🚗 [Legacy Wheels – Used Car Marketplace](https://github.com/Saaaiii)
+**Tech Stack:** Django, React, Python  
+A used-car marketplace designed to help users explore vehicles, view car details, manage favorites, and navigate a streamlined car-buying experience.
 
 ---
+
+📌 **Explore more projects:** [GitHub Profile](https://github.com/Saaaiii) · [Portfolio Website](https://saaaiii.github.io/saisundar-portfolio/)
 
 ### Tech Stack
 
