@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-View%20my%20work-2F81F7?style=for-the-badge" alt="portfolio"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20me-2F81F7?style=for-the-badge" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2F81F7?style=for-the-badge" alt="linkedin"/></a>
-  <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-Download-2F81F7?style=for-the-badge" alt="resume"/></a>
+  <a href="https://saaaiii.github.io/saisundar-portfolio/"><img src="https://img.shields.io/badge/Portfolio-View%20my%20work-2F81F7?style=for-the-badge" alt="portfolio"/></a>
+  <a href="mailto:saisundarskd@gmail.com.com"><img src="https://img.shields.io/badge/Email-Contact%20me-2F81F7?style=for-the-badge" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/saisundar262299/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2F81F7?style=for-the-badge" alt="linkedin"/></a>
+  <a href="https://drive.google.com/file/d/1UN-ePDhFACTvFUH7HLqH-9Cpt1UYNY48/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-2F81F7?style=for-the-badge" alt="resume"/></a>
 </p>
 
 <br/>
